@@ -41,8 +41,8 @@ class menu {
                         }
                         break;
                     case 2:
-						try {  
-							input();
+			try {  
+			    input();
                             datamembers datamembers = new datamembers(customerNumber,customerName,con);
 
                             IndustryBill b = new IndustryBill();
